@@ -13,3 +13,7 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Versión 3 — montaje de deporte y psicología
 
 `reel-padel-v3.mp4`: nueva dirección audiovisual con música original y atenuación bajo la voz, efectos originales, movimientos de cámara suaves, animaciones tácticas de pista, un marcador ilustrativo, cambios de emparejamiento y llamada final a escribir. Subtítulos completos con palabra activa resaltada y jerarquía tipográfica. Duración 56.48 s, 720×1280. La sincronización procede del alineado acústico de v2; el texto editable está en `subtitulos-v3.srt`. Se comprobaron metadatos, decodificación, capturas de los 51 bloques y niveles de mezcla (-17.6 LUFS; -1.76 dBTP). Pendiente revisión escuchada del resultado; no se garantiza viralidad.
+
+## Versión 4 — suspense y subtítulos dinámicos
+
+`reel-padel-v4.mp4`: revisión acotada de v3 solicitada por el usuario. Mantiene la voz, música y escenas deportivas. El inicio pregunta «¿Cuál es el gran reto?» y revela la respuesta cuando se pronuncia, también en los subtítulos. Los 53 bloques conservan las 180 palabras y alternan altura, tamaño y familia tipográfica, con movimientos de entrada continuos y sin huecos. Texto editable: `subtitulos-v4.srt`. Revisados metadatos, decodificación completa, ausencia de respuesta adelantada y fotogramas de todos los grupos. No se ha realizado escucha humana desde el entorno.
