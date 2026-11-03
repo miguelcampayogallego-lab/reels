@@ -25,3 +25,7 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Versión 7 — hook tipográfico sin recuadro
 
 `reel-padel-v7.mp4` reúne la nueva tipografía exterior de la revisión intermedia y el último cambio de arranque: primeros cinco segundos sin recuadro ni diagrama, texto libre en capas «UN MUNDIAL / UN GRAN RETO / ¿CUÁL?» y dos clics de entrada. La respuesta no se adelanta. Se mantienen los gráficos, voz, música y subtítulos completos del resto del montaje. 56.48 s, 720×1280. Decodificación, metadatos, muestras visuales y niveles verificados (-17.60 LUFS; -1.75 dBTP); pendiente escucha humana completa. Texto editable: `subtitulos-v7.srt`.
+
+## Versión 8 — énfasis en psicología deportiva
+
+`reel-padel-v8.mp4`: entrada escalonada de «Y AQUÍ…», «PSICOLOGÍA» y «DEPORTIVA», con tipografías contrastadas, subrayado animado y acentos sonoros propios. Se refuerzan los sonidos asociados a la bola, el reajuste, el marcador y los cambios de pareja. Mantiene el hook inicial, la voz y todos los subtítulos. 56.478 s, 720×1280; mezcla medida -17.61 LUFS y -1.73 dBTP. Decodificación, capturas, continuidad de tiempos y conservación de escenas verificadas; pendiente escucha humana completa. Texto editable: `subtitulos-v8.srt`.
