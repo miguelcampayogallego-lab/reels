@@ -21,3 +21,7 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Versión 5 — composición tipográfica y clics
 
 `reel-padel-v5.mp4`: última pasada solicitada sobre v4, con títulos en varias capas, contornos grandes, acentos en cursiva y display condensado, líneas explicativas y clics originales sincronizados con entradas. Conserva el suspense inicial, música, gráficos deportivos, voz y los mismos subtítulos completos y móviles. 56.48 s, 720×1280. Metadatos, decodificación, muestras visuales y niveles verificados; pendiente escucha completa. SRT: `subtitulos-v5.srt`.
+
+## Versión 7 — hook tipográfico sin recuadro
+
+`reel-padel-v7.mp4` reúne la nueva tipografía exterior de la revisión intermedia y el último cambio de arranque: primeros cinco segundos sin recuadro ni diagrama, texto libre en capas «UN MUNDIAL / UN GRAN RETO / ¿CUÁL?» y dos clics de entrada. La respuesta no se adelanta. Se mantienen los gráficos, voz, música y subtítulos completos del resto del montaje. 56.48 s, 720×1280. Decodificación, metadatos, muestras visuales y niveles verificados (-17.60 LUFS; -1.75 dBTP); pendiente escucha humana completa. Texto editable: `subtitulos-v7.srt`.
