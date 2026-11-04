@@ -29,3 +29,7 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Versión 8 — énfasis en psicología deportiva
 
 `reel-padel-v8.mp4`: entrada escalonada de «Y AQUÍ…», «PSICOLOGÍA» y «DEPORTIVA», con tipografías contrastadas, subrayado animado y acentos sonoros propios. Se refuerzan los sonidos asociados a la bola, el reajuste, el marcador y los cambios de pareja. Mantiene el hook inicial, la voz y todos los subtítulos. 56.478 s, 720×1280; mezcla medida -17.61 LUFS y -1.73 dBTP. Decodificación, capturas, continuidad de tiempos y conservación de escenas verificadas; pendiente escucha humana completa. Texto editable: `subtitulos-v8.srt`.
+
+## Versión 9 — texto libre grueso y clics
+
+`reel-padel-v9.mp4`: arranque con letras gruesas amarillas en capas, inspirado en la referencia aportada. En «psicología deportiva» se elimina el panel, el contorno MENTE y el subrayado: quedan palabras libres con entrada lateral y expansión. Doble clic mecánico y desplazamiento sonoro en siete entradas. Los gráficos explicativos posteriores se conservan. Subtítulos completos con los mismos tiempos, reubicados en los dos momentos modificados. 56.478 s, 720×1280; mezcla -17.59 LUFS, -1.70 dBTP. Decodificación completa y muestras visuales verificadas; sin escucha humana completa. SRT: `subtitulos-v9.srt`.
