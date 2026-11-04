@@ -47,3 +47,9 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 `reel-padel-v11.mp4`: mantiene exactamente los eventos gráficos de v10, incluidas las letras cinéticas. Retira palabras de contenido repetidas de la pista de subtítulos mientras las presenta un gráfico/título, sin retirar la voz. El SRT conserva la transcripción completa. Verificados automáticamente los solapamientos de palabras destacadas y la conservación de todos los eventos gráficos; muestras visuales revisadas.
 
 `reel-padel-v11-quicktime.mov`: copia MOV H.264 Constrained Baseline, yuv420p, 30 fps constantes y audio PCM estéreo de 48 kHz; 56.469 s, 33 728 006 bytes. Ambas pistas comienzan en cero. Ambas entregas decodifican sin errores. QuickTime no está disponible aquí: no se ha reproducido el fallo ni se garantiza su resolución en el Mac del usuario. Sin escucha humana completa.
+
+## Versión 12 — profundidad y descarga ZIP
+
+`reel-padel-v12-descarga.zip`: MP4 H.264 Constrained Baseline 720×1280 a 30 fps y AAC-LC estéreo de 48 kHz, SRT completo e instrucciones. Texto de gran formato alternando primer plano y fondo mediante máscara U2NetP; pelota ilustrada animada, destellos cálidos suaves y acentos sonoros. Se mantienen los gráficos explicativos. Instalados ONNX Runtime y OpenCV en entorno separado, modelo U2NetP obtenido del release público de rembg. Máscara automática a 10 fps, con bordes suavizados; puede presentar pequeñas imperfecciones de contorno.
+
+Verificaciones: fotogramas de ambos momentos de profundidad, metadatos, decodificación completa y CRC del ZIP. Audio medido -17.60 LUFS / -1.91 dBTP; sin escucha humana completa. ZIP evita abrir el MP4 directamente en el reproductor del enlace, pero no garantiza resolver el fallo de QuickTime del usuario.
