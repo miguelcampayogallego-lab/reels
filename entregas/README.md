@@ -33,3 +33,7 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Versión 9 — texto libre grueso y clics
 
 `reel-padel-v9.mp4`: arranque con letras gruesas amarillas en capas, inspirado en la referencia aportada. En «psicología deportiva» se elimina el panel, el contorno MENTE y el subrayado: quedan palabras libres con entrada lateral y expansión. Doble clic mecánico y desplazamiento sonoro en siete entradas. Los gráficos explicativos posteriores se conservan. Subtítulos completos con los mismos tiempos, reubicados en los dos momentos modificados. 56.478 s, 720×1280; mezcla -17.59 LUFS, -1.70 dBTP. Decodificación completa y muestras visuales verificadas; sin escucha humana completa. SRT: `subtitulos-v9.srt`.
+
+## Versión 10 — composición cinética de gran formato
+
+`reel-padel-v10.mp4`: rehace el énfasis de psicología deportiva con Montserrat Black 900, minúsculas amarillas de gran formato, palabras acumuladas y movimiento calculado a 30 fps con entrada lateral, rebote amortiguado y desplazamiento continuo. Clics mecánicos y sonidos cortos de movimiento acompañan las entradas; sin panel en esa frase. Muestra: `preview-psicologia-v10.mp4` (5.1 segundos). Conserva 180 estados de palabra y sus tiempos. Vídeo completo 56.478 s, 720×1280, 21 019 333 bytes, -17.61 LUFS / -1.87 dBTP. Decodificación y muestra visual verificadas; sin escucha humana completa.
