@@ -37,3 +37,7 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Versión 10 — composición cinética de gran formato
 
 `reel-padel-v10.mp4`: rehace el énfasis de psicología deportiva con Montserrat Black 900, minúsculas amarillas de gran formato, palabras acumuladas y movimiento calculado a 30 fps con entrada lateral, rebote amortiguado y desplazamiento continuo. Clics mecánicos y sonidos cortos de movimiento acompañan las entradas; sin panel en esa frase. Muestra: `preview-psicologia-v10.mp4` (5.1 segundos). Conserva 180 estados de palabra y sus tiempos. Vídeo completo 56.478 s, 720×1280, 21 019 333 bytes, -17.61 LUFS / -1.87 dBTP. Decodificación y muestra visual verificadas; sin escucha humana completa.
+
+## Copia compatible de v10
+
+`reel-padel-v10-compatible.mp4`: mismo montaje recodificado para diagnosticar el problema comunicado de reproducción a ×1 en ordenador. H.264 Constrained Baseline 3.1, yuv420p, 30 fps constantes, AAC-LC estéreo y faststart. Tiempos de ambas pistas desde cero, 56.469 segundos. Decodificación completa sin errores. El original tampoco presentó errores de decodificación; no se ha reproducido el fallo del dispositivo del usuario ni se afirma que esta copia lo resuelva sin probarla allí.
