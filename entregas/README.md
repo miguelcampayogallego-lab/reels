@@ -53,3 +53,9 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 `reel-padel-v12-descarga.zip`: MP4 H.264 Constrained Baseline 720×1280 a 30 fps y AAC-LC estéreo de 48 kHz, SRT completo e instrucciones. Texto de gran formato alternando primer plano y fondo mediante máscara U2NetP; pelota ilustrada animada, destellos cálidos suaves y acentos sonoros. Se mantienen los gráficos explicativos. Instalados ONNX Runtime y OpenCV en entorno separado, modelo U2NetP obtenido del release público de rembg. Máscara automática a 10 fps, con bordes suavizados; puede presentar pequeñas imperfecciones de contorno.
 
 Verificaciones: fotogramas de ambos momentos de profundidad, metadatos, decodificación completa y CRC del ZIP. Audio medido -17.60 LUFS / -1.91 dBTP; sin escucha humana completa. ZIP evita abrir el MP4 directamente en el reproductor del enlace, pero no garantiza resolver el fallo de QuickTime del usuario.
+
+## Versión 13 — nuevo inicio, voz y efectos
+
+`reel-padel-v13-descarga.zip`: inicia en «Y aquí es donde la psicología deportiva», eliminando 13.146 s del montaje anterior. Sin pelota ni música: mezcla de voz original y efectos reforzados. Entrada en blanco/amarillo y filas de texto relleno/contorno detrás de la silueta; palabra principal delante. Subtítulos más grandes y móviles; palabras reseñables con ecos de profundidad durante el resto. Se conservan los gráficos explicativos. Máscara automática U2NetP extendida al tramo restante, con pequeñas imperfecciones de contorno posibles. SRT reajustado desde cero.
+
+H.264 Constrained Baseline, 720×1280, 30 fps, AAC-LC estéreo; 43.314 s. Decodificación completa, muestras visuales, ausencia de música y pelota en el filtro y CRC del ZIP verificados. Audio medido -18.43 LUFS / -1.37 dBTP. No se ha realizado escucha humana completa ni reproducción en QuickTime.
