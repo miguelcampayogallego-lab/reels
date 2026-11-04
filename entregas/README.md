@@ -41,3 +41,9 @@ Los subtítulos son un borrador alineado por frases a partir del guion facilitad
 ## Copia compatible de v10
 
 `reel-padel-v10-compatible.mp4`: mismo montaje recodificado para diagnosticar el problema comunicado de reproducción a ×1 en ordenador. H.264 Constrained Baseline 3.1, yuv420p, 30 fps constantes, AAC-LC estéreo y faststart. Tiempos de ambas pistas desde cero, 56.469 segundos. Decodificación completa sin errores. El original tampoco presentó errores de decodificación; no se ha reproducido el fallo del dispositivo del usuario ni se afirma que esta copia lo resuelva sin probarla allí.
+
+## Versión 11 — una sola ubicación por palabra destacada
+
+`reel-padel-v11.mp4`: mantiene exactamente los eventos gráficos de v10, incluidas las letras cinéticas. Retira palabras de contenido repetidas de la pista de subtítulos mientras las presenta un gráfico/título, sin retirar la voz. El SRT conserva la transcripción completa. Verificados automáticamente los solapamientos de palabras destacadas y la conservación de todos los eventos gráficos; muestras visuales revisadas.
+
+`reel-padel-v11-quicktime.mov`: copia MOV H.264 Constrained Baseline, yuv420p, 30 fps constantes y audio PCM estéreo de 48 kHz; 56.469 s, 33 728 006 bytes. Ambas pistas comienzan en cero. Ambas entregas decodifican sin errores. QuickTime no está disponible aquí: no se ha reproducido el fallo ni se garantiza su resolución en el Mac del usuario. Sin escucha humana completa.
