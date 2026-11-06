@@ -71,3 +71,9 @@ H.264 Constrained Baseline 720×1280, 30 fps, AAC-LC estéreo. 56.460 s, MP4 de 
 `reel-padel-v16.mp4`: revisión del inicio con Anton de gran formato, letras de «RETOS» escalonadas, desplazamientos laterales, cambios de escala y rebotes. Conserva las fotos y los obturadores, el suspense y el resto del montaje visual. Nueva base electrónica original a 112 BPM que baja automáticamente bajo la voz; incluye también la voz y los efectos anteriores. Entrega MP4 directa.
 
 56.46 s, 720×1280, H.264 Constrained Baseline 30 fps / AAC-LC. Revisados fotogramas del gancho, continuidad del resto de eventos visuales, decodificación completa y niveles de mezcla (-17.54 LUFS / -1.38 dBTP). Sin escucha humana completa ni prueba en el dispositivo del usuario.
+
+## Versión 17 — collage acumulativo
+
+`reel-padel-v17.mp4`: nueva composición del gancho. Las tres fotografías entran como tarjetas ligeramente giradas con borde claro y sombra, desde posiciones diferentes; se acumulan en pantalla en los tiempos de montaje .630, 1.651 y 2.171 s y permanecen juntas hasta 7.053 s. Cada entrada lleva obturador, golpe breve y desplazamiento sonoro, con destello discreto. Texto en zona superior con sans gruesa, serif cursiva y caligrafía, cambios de tamaño y entradas laterales/rebote. Mantiene suspense y resto del montaje visual y base musical de v16.
+
+56.46 s, 720×1280/30 fps, H.264 Constrained Baseline/AAC-LC, MP4 directo. Fotogramas de primera tarjeta y collage completo revisados; decodificación completa y continuidad visual del resto comprobadas. Mezcla -17.53 LUFS / -1.30 dBTP. Sin escucha humana completa ni prueba en dispositivo del usuario.
