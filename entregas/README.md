@@ -89,3 +89,9 @@ H.264 Constrained Baseline 720×1280, 30 fps, AAC-LC estéreo. 56.460 s, MP4 de 
 `reel-error-emocional-v2.mp4`: cuatro familias tipográficas (Reel Heavy, Anton, Great Vibes y Liberation Serif cursiva), filas escalonadas, entradas con escala, giros y desplazamientos, revelado por máscara y salidas laterales. Nuevos tiempos basados en la nueva voz masculina sintética VITS/CSS10 español, speaker tux, fuente oficial Coqui v0.8.0_models (modelo BSD-3-Clause). Sustituye a Kokoro. No es clonación.
 
 Música original con ganancia de +12 dB respecto al ajuste anterior y compresión bajo la voz más ligera (umbral .18 / ratio1.8); voz normalizada a -16 LUFS antes de mezcla. 42.905 s,1080×1920/30fps,H264/AAC,4 919 234 bytes. Decodificación completa, fotogramas y niveles verificados: -17.17 LUFS/-4.51 dBTP. ASR por frases recuperó el contenido con errores; no demuestra una mejora de claridad o acento. Sin escucha humana completa. Debe valorarse la nueva locución al reproducir.
+
+## Reel emocional v3 — imágenes oscuras y otra voz
+
+`reel-error-emocional-v3.mp4`: nueva voz sintética masculina Kokoro em_santa, fonetización española es y velocidad1.0; distinta de Kokoro em_alex de v1 y VITS de v2. Seis fotografías originales generadas de un deportista ficticio de baloncesto: fallo, frustración, vacilación, tensión con el balón, vuelta a casa y reflexión. No aparece el usuario ni un deportista real. Imágenes con iluminación reducida y degradado oscuro para letras, ocho pasajes fotográficos alternados con ocho tarjetas casi negras por frase. Movimiento de encuadre de1.5–7%, caídas de iluminación de80ms en los cortes y golpes sonoros breves. Mantiene tipografía cinética y música con la ganancia alta de v2.
+
+46.071 s,1080×1920/30fps,H264/AAC,7 076 231bytes. Revisados el storyboard y fotogramas con imagen y texto; decodificación completa correcta y mezcla -18.24LUFS/-4.52dBTP. Sin escucha humana completa ni certificación de acento regional/naturalidad.
