@@ -65,3 +65,9 @@ H.264 Constrained Baseline, 720×1280, 30 fps, AAC-LC estéreo; 43.314 s. Decodi
 `reel-padel-v15-descarga.zip`: vídeo completo con gancho inspirado en la referencia del usuario: tipografía sans gruesa blanca, caligrafía Great Vibes superpuesta y serif cursiva con color cálido. Tres fotos aportadas por el usuario entran con obturador original y destello de 50 ms, con movimiento suave y encuadres que conservan los grupos completos. El año/torneo de las fotografías no se rotula ni se afirma verificado. Después continúa la edición de v13, con gráficos explicativos y texto en profundidad, voz y efectos sin música ni pelota.
 
 H.264 Constrained Baseline 720×1280, 30 fps, AAC-LC estéreo. 56.460 s, MP4 de 23 812 452 bytes. Revisadas tres capturas de las fotografías; gráficos y tipografía restantes idénticos al borrador v14. Decodificación y CRC del ZIP correctos; mezcla -17.56 LUFS y -1.51 dBTP. Sin escucha humana completa ni prueba de reproducción en el Mac del usuario.
+
+## Versión 16 — nueva entrada y música dinámica
+
+`reel-padel-v16.mp4`: revisión del inicio con Anton de gran formato, letras de «RETOS» escalonadas, desplazamientos laterales, cambios de escala y rebotes. Conserva las fotos y los obturadores, el suspense y el resto del montaje visual. Nueva base electrónica original a 112 BPM que baja automáticamente bajo la voz; incluye también la voz y los efectos anteriores. Entrega MP4 directa.
+
+56.46 s, 720×1280, H.264 Constrained Baseline 30 fps / AAC-LC. Revisados fotogramas del gancho, continuidad del resto de eventos visuales, decodificación completa y niveles de mezcla (-17.54 LUFS / -1.38 dBTP). Sin escucha humana completa ni prueba en el dispositivo del usuario.
