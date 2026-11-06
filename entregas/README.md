@@ -77,3 +77,9 @@ H.264 Constrained Baseline 720×1280, 30 fps, AAC-LC estéreo. 56.460 s, MP4 de 
 `reel-padel-v17.mp4`: nueva composición del gancho. Las tres fotografías entran como tarjetas ligeramente giradas con borde claro y sombra, desde posiciones diferentes; se acumulan en pantalla en los tiempos de montaje .630, 1.651 y 2.171 s y permanecen juntas hasta 7.053 s. Cada entrada lleva obturador, golpe breve y desplazamiento sonoro, con destello discreto. Texto en zona superior con sans gruesa, serif cursiva y caligrafía, cambios de tamaño y entradas laterales/rebote. Mantiene suspense y resto del montaje visual y base musical de v16.
 
 56.46 s, 720×1280/30 fps, H.264 Constrained Baseline/AAC-LC, MP4 directo. Fotogramas de primera tarjeta y collage completo revisados; decodificación completa y continuidad visual del resto comprobadas. Mezcla -17.53 LUFS / -1.30 dBTP. Sin escucha humana completa ni prueba en dispositivo del usuario.
+
+## Reel nuevo — error y diálogo interno
+
+`reel-error-emocional-v1.mp4`: pieza independiente desde cero, sin imagen ni voz original del usuario. Última versión dictada del guion con correcciones de transcripción («castigándote», «hunde», «es todo»). Voz masculina sintética Kokoro em_alex, fonetización española `es`, velocidad 0.94, pausas añadidas por frase; no es clonación. Texto tipográfico animado, fondo oscuro original, acentos de color, música original suave y cierre escrito «Escríbeme por privado».
+
+47.733 s, 1080×1920, 30 fps, H264 Main/AAC-LC, 4 903 768 bytes. Tiempos de texto basados en los segmentos de audio generados. SRT alternativo incluido. Fotogramas inicial/final revisados, decodificación completa sin errores, mezcla medida -18.16 LUFS / -4.85 dBTP. Reconocimiento acústico automático recuperó el contenido con errores, y no sustituye la escucha. No se ha realizado escucha humana ni certificado un acento regional nativo o la naturalidad emocional.
